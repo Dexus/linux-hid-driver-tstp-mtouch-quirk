@@ -1,6 +1,6 @@
 # Final Kernel implementation
 
-1. Copy file to drivers/hid/hid-tstp-mtouch.c
+1. Copy file to `drivers/hid/hid-tstp-mtouch.c`
 
 2. Add to `drivers/hid/Makefile`:
 
